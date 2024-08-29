@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Resource Links](README.md)
+* [Github Help Links](README.md)
